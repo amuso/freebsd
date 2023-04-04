@@ -1,6 +1,5 @@
 Result of "pkg info" after compilation:
 
-
 autoconf-2.71                  Generate configure scripts and related files
 autoconf-switch-20220527       Wrapper script to switch between autoconf versions
 automake-1.16.5                GNU Standards-compliant Makefile generator
