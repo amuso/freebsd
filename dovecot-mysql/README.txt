@@ -16,3 +16,6 @@ Installation:
 Dovecot with MySQL 5.7 and PostgreSQL 13.10 support:
 	dovecot-mysql57_pgsql1310-2.3.20.pkg
 
+Dovecot with MySQL 8.0 and PostgreSQL 13.10 support:
+	dovecot-mysql80_pgsql1310-2.3.20.pkg
+
