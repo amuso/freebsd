@@ -1,5 +1,6 @@
 Result of "pkg info" after compilation:
 
+
 autoconf-2.71                  Generate configure scripts and related files
 autoconf-switch-20220527       Wrapper script to switch between autoconf versions
 automake-1.16.5                GNU Standards-compliant Makefile generator
@@ -57,3 +58,4 @@ screen-4.9.0_6                 Multi-screen window manager
 texinfo-6.8_3,1                Typeset documentation system with multiple format output
 uchardet-0.0.8                 Universal charset detection library
 zstd-1.5.4                     Fast real-time compression algorithm
+

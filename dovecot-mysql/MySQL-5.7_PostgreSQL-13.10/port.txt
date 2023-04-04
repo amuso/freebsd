@@ -1,4 +1,8 @@
-mail/dovecot added the following options:
+cd /usr/ports/mail/dovecot
+make package
+
+Added the following compile options:
         +MYSQL
         +PGSQL
+
 
